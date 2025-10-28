@@ -10,6 +10,24 @@ namespace InputOutput_Start
             Console.WriteLine("Moin Lars, willkommen zurück zur Einführung in C#!");
             Console.WriteLine(); // Leerzeile für bessere Lesbarkeit
 
+            Console.WriteLine(); // Leerzeile für Übersicht
+            Console.Write("Bitte gib eine ganze Zahl ein: ");
+            int zahl = int.Parse(Console.ReadLine());
+
+            if (zahl > 0)
+            {
+                Console.WriteLine("Die Zahl ist positiv!");
+            }
+            else if (zahl < 0)
+            {
+                Console.WriteLine("Die Zahl ist negativ!");
+            }
+            else
+            {
+                Console.WriteLine("Die Zahl ist null!");
+            }
+            Console.WriteLine(); // Leerzeile für Übersicht
+
             // 2️. Dynamische Eingabe: Vor- und Nachname abfragen
             Console.Write("Bitte gib deinen Vornamen ein: ");
             string vorname = Console.ReadLine();

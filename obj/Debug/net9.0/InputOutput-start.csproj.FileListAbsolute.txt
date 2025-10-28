@@ -12,3 +12,4 @@ C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in d
 C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.pdb
 C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.genruntimeconfig.cache
 C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\ref\InputOutput-start.dll
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.sourcelink.json
