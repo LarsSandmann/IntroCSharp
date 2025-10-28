@@ -7,7 +7,7 @@ namespace InputOutput_Start
         static void Main(string[] args)
         {
             // 1️. Statische Begrüßung
-            Console.WriteLine("Hallo Lars Sandmann, willkommen in der Einführung zur Programmierung mit C#!");
+            Console.WriteLine("Moin Lars, willkommen zurück zur Einführung in C#!");
             Console.WriteLine(); // Leerzeile für bessere Lesbarkeit
 
             // 2️. Dynamische Eingabe: Vor- und Nachname abfragen
