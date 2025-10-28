@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "InputOutput-start/1.0.0": {
+        "runtime": {
+          "InputOutput-start.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InputOutput-start/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

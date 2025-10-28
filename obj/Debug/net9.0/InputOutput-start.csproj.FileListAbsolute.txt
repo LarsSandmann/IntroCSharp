@@ -1,0 +1,14 @@
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\bin\Debug\net9.0\InputOutput-start.exe
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\bin\Debug\net9.0\InputOutput-start.deps.json
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\bin\Debug\net9.0\InputOutput-start.runtimeconfig.json
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\bin\Debug\net9.0\InputOutput-start.dll
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\bin\Debug\net9.0\InputOutput-start.pdb
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.AssemblyInfoInputs.cache
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.AssemblyInfo.cs
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.csproj.CoreCompileInputs.cache
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.dll
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\refint\InputOutput-start.dll
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.pdb
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\InputOutput-start.genruntimeconfig.cache
+C:\Users\Lars Sandmann\Desktop\Duales Studium WI\1. Semester\05_Einführung in die Programmierung\20251023\1.01-intro\homework\InputOutput-start\obj\Debug\net9.0\ref\InputOutput-start.dll
