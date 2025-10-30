@@ -6,9 +6,25 @@ namespace InputOutput_Start
     {
         static void Main(string[] args)
         {
+
+            // Neuer Kommentar 
             // 1️. Statische Begrüßung
             Console.WriteLine("Moin Lars, willkommen zurück zur Einführung in C#!");
             Console.WriteLine(); // Leerzeile für bessere Lesbarkeit
+
+        
+
+            // 2️. Dynamische Eingabe: Vor- und Nachname abfragen
+            Console.Write("Bitte gib deinen Vornamen ein: ");
+            string vorname = Console.ReadLine();
+
+            Console.Write("Bitte gib deinen Nachnamen ein: ");
+            string nachname = Console.ReadLine();
+
+            // 3️. Ausgabe mit personalisierter Begrüßung (Verkettung mit +)
+            Console.WriteLine("Danke für die Eingabe, " + vorname + " " + nachname + ". Herzlich willkommen!");
+
+
 
             Console.WriteLine(); // Leerzeile für Übersicht
             Console.Write("Bitte gib eine ganze Zahl ein: ");
@@ -27,16 +43,6 @@ namespace InputOutput_Start
                 Console.WriteLine("Die Zahl ist null!");
             }
             Console.WriteLine(); // Leerzeile für Übersicht
-
-            // 2️. Dynamische Eingabe: Vor- und Nachname abfragen
-            Console.Write("Bitte gib deinen Vornamen ein: ");
-            string vorname = Console.ReadLine();
-
-            Console.Write("Bitte gib deinen Nachnamen ein: ");
-            string nachname = Console.ReadLine();
-
-            // 3️. Ausgabe mit personalisierter Begrüßung (Verkettung mit +)
-            Console.WriteLine("Danke für die Eingabe, " + vorname + " " + nachname + ". Herzlich willkommen!");
         }
     }
 }
